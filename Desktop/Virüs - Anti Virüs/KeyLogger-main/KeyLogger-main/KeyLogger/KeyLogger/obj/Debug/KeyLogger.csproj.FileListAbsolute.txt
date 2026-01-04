@@ -1,0 +1,8 @@
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
+C:\Users\kerem\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe.config
